@@ -1,10 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-
-feature-img: "assets/img/sample.png" 
+feature_text: |
+  ## The PAGE Study
+  Population Architecture using Genomics and Epidemiology
+feature_image: "/assets/img/background.jpg"
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Although many genome-wide association studies (GWAS), whole-genome sequencing (WGS), omics, and polygenic risk score (PRS) efforts are underway, there is still a notable gap in leveraging diversity to empower discovery and improve our understanding of genotypic and phenotypic architecture across all populations. The Population Architecture through Genomics and Environment (PAGE) Study aims to help fill this gap. Our recent flagship paper (<a href="https://pubmed.ncbi.nlm.nih.gov/31217584/">Wojcik et al., 2019</a>) shows how much more can be learned by including people from multipe ancestries.

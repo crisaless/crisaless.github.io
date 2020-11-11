@@ -1,0 +1,38 @@
+---
+title: false
+styles: true
+---
+
+$linkColour: #1d53a0 !default;
+$hoverColour: #2a77e7 !default;
+$focusColour: #fa407a !default;
+
+h2#the-page-study {
+    color: #fff;
+}
+
+.container.typeset p { color: #fff;}
+
+.typeset h1 {padding-bottom: 20px;}
+
+/* Default table styles for this demo */
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+table tr {
+    background: white;
+    border-bottom: 1px solid
+}
+table th, table td {
+    padding: 10px 20px;
+}
+
+table th { font-weight: bold;}
+
+table {
+    min-width: 1000px; /* Set your desired min-width here */
+}
+
+@import "alembic";
