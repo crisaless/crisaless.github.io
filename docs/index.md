@@ -1,0 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+Although many genome-wide association studies (GWAS), whole-genome sequencing (WGS), omics, and polygenic risk score (PRS) efforts are underway, there is still a notable gap in leveraging diversity to empower discovery and improve our understanding of genotypic and phenotypic architecture across all populations. The Population Architecture through Genomics and Environment (PAGE) Study aims to help fill this gap. Our recent flagship paper (<a href="https://pubmed.ncbi.nlm.nih.gov/31217584/">Wojcik et al., 2019</a>) shows how much more can be learned by including people from multipe ancestries.
+
+The PAGE Study was designed to characterize the genetic architecture of complex traits among underrepresented minority populations through large-scale genetics and epidemiological research. PAGE includes scientists at several U.S. institutions working collaboratively to conduct genetics analyses on a range of phenotypes using data from several cohorts or biobanks.
+
+The PAGE Study has been continuously funded by the National Institutes of Health (NIH) since 2008.  The current phase (Phase III) focuses on multi-ethnic omics and multi-ethnic PRS.  For the omics component, funded by the National Human Genome Research Institute (NHGRI), we propose to extend and continue our invaluable work to date to 1) identify and characterize genetic variants that influence complex traits and diseases in ancestrally diverse individuals, 2) integrate information on sequence variation and omics to better understand the genetic underpinnings of complex traits in the diverse PAGE participants, and 3) characterize biological pathways underlying disease risk both within and between populations.  For the PRS component, funded by the National Heart, Lung and Blood Institute (NHLBI), we address major limitations of the science of PRS by leveraging high-quality, harmonized, and centrally available data from the multi-ethnic PAGE study with extension to a network of biobanks with linked electronic health records (EHR), thereby capturing cardiovascular disease (CVD) and its risk factors to demonstrate the utility of PRS for CVD in racially/ethnically diverse populations.
+
+As a continuation of our ground-breaking work in PAGE over the last decade, our current efforts will advance our understanding of the genetic and genomic components underlying biological mechanisms of disease, and translational medicine in adversely affected and understudied diverse populations.
