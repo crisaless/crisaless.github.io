@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+
+feature-img: "assets/img/sample.png" 
 ---
 
 Although many genome-wide association studies (GWAS), whole-genome sequencing (WGS), omics, and polygenic risk score (PRS) efforts are underway, there is still a notable gap in leveraging diversity to empower discovery and improve our understanding of genotypic and phenotypic architecture across all populations. The Population Architecture through Genomics and Environment (PAGE) Study aims to help fill this gap. Our recent flagship paper (<a href="https://pubmed.ncbi.nlm.nih.gov/31217584/">Wojcik et al., 2019</a>) shows how much more can be learned by including people from multipe ancestries.
